@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### set the package-lock.json
+### set the VS CODE PATH package-lock.json by using 
+cd c:/..path...
 
 ### use the command "npx react-scripts start"
 
